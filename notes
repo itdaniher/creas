@@ -1,0 +1,40 @@
+tataric acid for resolving enantiomers?
+
+cetirizine -> US 4,525,358
+
+albuterol probably doesn't need chiral separation; R is potent, S is possibly irritating
+
+cetirizine probably doesn't need chiral separation R is potent
+
+- notes on dosage and packing of both cetirizine and salbuterol - https://www.google.com/patents/WO2005041969A1
+
+synthesis notes -> https://www.google.com/patents/EP2062881B1
+
+http://www.suprachem.com/index.html
+
+
+-----
+
+http://www.nwchem-sw.org/index.php/Main_Page
+http://ecce.pnl.gov/
+http://www.biomolecular-modeling.com/Ascalaph/Ascalaph_Designer.html
+http://www.chemcraftprog.comi/
+
+----
+
+The density functional theory (DFT) has reduced the exponentially complex quantum mechanical (QM) N-body
+problem to O(N3), by solving N one-electron problems self-consistently instead of an N-electron problem [13,18].†
+Unfortunately, DFT-based MD simulations [5] are rarely performed over N ~ 102 atoms because of the O(N3)
+computational complexity, which severely limits their scalability. In the past few years, two promising approaches
+have emerged toward achieving million-to-billion atom simulations of chemical reactions
+
+http://www.wag.caltech.edu/home/duin/papers/USC_ReaxFF_parallel_paper.pdf
+
+The density functional theory (DFT) reduces the exponentially complex quantum N-body problem to a self-consistent matrix eigenvalue problem, which can be solved with O(M**3) operations
+
+embedded divide-andconquer density functional theory (EDC-DFT) algorithm
+
+Data locality principles are key to developing a scalable parallel computing framework as well. We have developed
+a hierarchical cellular decomposition (HCD) framework to map the above O(N) algorithms onto massively parallel
+computers with deep memory hierarchies. The HCD maximally exposes data locality and exploits parallelism at
+multiple decomposition levels
